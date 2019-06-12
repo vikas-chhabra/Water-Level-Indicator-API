@@ -1,0 +1,9 @@
+{
+  "name": "waterlevelindicator",
+  "version": "1.0.0",
+  "description": "backend for water level indicationm",
+  "main": "index.js",
+  "author": "Vikas vchhabra33@gmail.com",
+  "license": "MIT",
+  "private": null
+}
