@@ -22,7 +22,7 @@ mongoose.connect('mongodb+srv://waterlevelindicator:waterlevelindicator@waterlev
     })
 
 // use the morgan
-app.use(morgan('dev'));
+// app.use(morgan('dev'));
 
 //use the body-parser
 app.use(bodyParser.urlencoded({extended:false}));
