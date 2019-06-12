@@ -1,5 +1,6 @@
 Base URL - https://waterlevelindicator.herokuapp.com/api/stats
 Routes
+
     1. get the water level 
         route - /waterlevel
     
